@@ -7,15 +7,14 @@ The goal of this project is to analyze a sample dataset using SQL to extract val
 - SQL (CTEs, Joins, Aggregations, Window Functions)
 - Excel (for initial data review)
 
-## 📈 Key Insights & Analysis
+## 📊 Key Business Questions Answered  
 
-- Performed data cleaning by handling missing values, correcting data types, and ensuring consistency  
-- Used CTEs and window functions to rank products and calculate performance metrics  
-- Identified high-performing categories, customer trends, and revenue-driving segments  
-- Answered business-driven questions such as:
-  - What are the top 5 products by revenue?
-  - Which customers are the most profitable?
-  - What days of the week see the highest sales volume?
+- **Top Revenue Drivers**  
+  - Which products and categories generate the most revenue?  
+- **Customer Value**  
+  - Who are the most profitable customers by order value and frequency?  
+- **Product Performance**  
+  - Which products are frequently returned or underperforming?
 
 ## 💡 What I Learned
 
