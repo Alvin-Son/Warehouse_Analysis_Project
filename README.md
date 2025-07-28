@@ -4,9 +4,7 @@ The goal of this project is to analyze a sample dataset using SQL to extract val
 
 ## 🛠 Tools & Technologies
 
-- PostgreSQL / MySQL
 - SQL (CTEs, Joins, Aggregations, Window Functions)
-- pgAdmin / MySQL Workbench (or any SQL IDE)
 - Excel (for initial data review)
 
 ## 📈 Key Insights & Analysis
